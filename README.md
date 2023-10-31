@@ -1,9 +1,8 @@
 ![Image](https://media.tenor.com/p5q73vRBB5sAAAAC/obiwan-hellothere.gif)
 - 👋 My name is Ryan! (@Ryan0C)
-- 👉 I work in the IT industry where I spend tons of my professional time with Linux, the cloud, and automation.
+- 👉 I work in the IT industry where I spend a large amount of my professional time with Linux, the cloud, and infrastructure automation.
 - 👉 I am always trying to learn new things, and enjoy tinkering around with all sorts of tech/programming.
 - 👉 I spend some of my free time working on related Linux, Python, PHP, VueJS, TypeScript, Automation, and Open Source projects.
-- 👉 I am always interested in looking at other projects. Please feel free to hit me up.
 - 👀 I’m looking to collaborate on small Linux projects, VueJS, PHP, TypeScript, or Python-related projects.
 
 <!---
